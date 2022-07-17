@@ -12,3 +12,6 @@ In this project, I’ll create visualizations to reveal insights from the data s
 </ul>
 <h3 class="code-line" data-line-start=14 data-line-end=15 ><a id="What__software_do_I_need_to_use_14"></a>What  software do I need to use?</h3>
 <p class="has-line-data" data-line-start="15" data-line-end="16">I will use tableau public</p>
+<h2 class="code-line" data-line-start=17 data-line-end=18 ><a id="Attachments_17"></a>Attachments</h2>
+<p class="has-line-data" data-line-start="18" data-line-end="20">The pdf report contains the questions, answers, visuals and direct links to<br>
+the visualizations created on tableau public</p>
